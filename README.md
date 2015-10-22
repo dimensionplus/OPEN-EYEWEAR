@@ -7,7 +7,8 @@ About
 
 這個專案來自於國立臺灣科學教育館的原型工廠(Prototyping Factory)計畫的支持，採用開放設計(OPEN Design)，任何人都可以在創用CC的授權下(姓名標示─相同方式分享)，都能免費下載使用，也可自由更改設計，只要標示原作者來自於LAB by Dimension+，以同樣方式分享給他人，創造適合自己的視鏡。
 
-
+更多說明參考
+https://hackpad.com/-OPEN-EYEWEAR-wV5EVZm7Mmt
 
 LICENCE
 ========
